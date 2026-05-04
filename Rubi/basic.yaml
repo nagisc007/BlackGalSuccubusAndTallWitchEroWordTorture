@@ -1,0 +1,6 @@
+# ルビ用YAMLファイル - novel-lighting-rubi(v0.1)対応版
+
+- rubi: 所為
+  replace: ｜所為《せい》
+- rubi: 頷([か-こい])
+  replace: ｜頷《うなず》$1
